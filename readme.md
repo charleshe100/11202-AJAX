@@ -15,7 +15,7 @@ XMLHttpRequest在2006年正式被W3C列入標準，也是目前所有瀏灠器�
 
 語法格式：
 ```javascript
-//宣告XHR物件
+//宣告XHR物件，是js內建
 var xhr=new XMLHttpRequest
 
 //建立設定
