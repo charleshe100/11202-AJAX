@@ -143,6 +143,8 @@ function to($url){
 }
 
 $Student=new DB('students');
+$Classes=new DB('classes');
+$ClassStudent=new DB('class_student');
 
 
 ?>
